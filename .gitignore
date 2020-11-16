@@ -2,7 +2,3 @@
 **/logs
 **/exports
 **/resources
-
-#ignore these folders
-./".ipynb_checkpoints"
-./".vscode"
