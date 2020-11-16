@@ -4,5 +4,5 @@
 **/resources
 
 #ignore these folders
-./.ipynb_checkpoints
-./.vscode
+./".ipynb_checkpoints"
+./".vscode"
