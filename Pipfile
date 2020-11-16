@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+tensorflow = "*"
+matplotlib = "*"
+scipy = "*"
+sklearn = "*"
+h5py = "*"
+jupyter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8.5"

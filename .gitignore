@@ -1,0 +1,4 @@
+# Ignore the outputs in /logs
+**/logs
+**/exports
+**/resources

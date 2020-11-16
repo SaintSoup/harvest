@@ -1,0 +1,1 @@
+#start with the models already done and expand into models proven to perform with timeseries
