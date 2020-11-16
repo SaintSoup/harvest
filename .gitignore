@@ -3,6 +3,6 @@
 **/exports
 **/resources
 
-#ignore these files
-.ipynb_checkpoints
-.vscode
+#ignore these folders
+**/.ipynb_checkpoints
+**/.vscode
