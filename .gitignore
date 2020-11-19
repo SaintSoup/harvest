@@ -1,5 +1,5 @@
 # Ignore the outputs in /logs /export /resources
 **/logs
-**/exports
+#**/exports
 **/resources
 *vscode/

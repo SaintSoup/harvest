@@ -14,6 +14,7 @@ h5py = "*"
 jupyter = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.8.5"
