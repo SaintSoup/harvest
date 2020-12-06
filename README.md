@@ -36,11 +36,11 @@ Timeline
 
 For the environment specifications, please refer to the Pipfile.The working environment is on Linux Mint Ulyana, with Python  3.8.5 as well as pipenv 2020.11.4 :
 
-`$ sudo apt-get update`
-`$ sudo apt install build-essential zlib1g-dev \`
-`libncurses5-dev libgdbm-dev libnss3-dev \`
-`libssl-dev libreadline-dev libffi-dev curl`
-`$sudo apt-get install pipenv`
+`$ sudo apt-get update`  
+`$ sudo apt install build-essential zlib1g-dev \`  
+`libncurses5-dev libgdbm-dev libnss3-dev \`  
+`libssl-dev libreadline-dev libffi-dev curl`  
+`$sudo apt-get install pipenv`  
 
 Once pipenv is installed, the following commands -run in the project directory- `pipenv install`  `pipenv shell`, will activate the environment.
 
