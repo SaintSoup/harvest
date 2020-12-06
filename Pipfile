@@ -12,6 +12,7 @@ scipy = "*"
 sklearn = "*"
 h5py = "*"
 jupyter = "*"
+fastdtw = "*"
 
 [dev-packages]
 pylint = "*"
