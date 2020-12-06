@@ -55,11 +55,11 @@ In case of discrepancies between the information cited below and the repository,
 ## References
 
 [1] A. Haji Hosseinloo, K. Turitsyn. "Fundamental Limits to Nonlinear Energy Harvesting
-" [link](https://dspace.mit.edu/handle/1721.1/100750)
+" [link](https://dspace.mit.edu/handle/1721.1/100750)  
 [2] A. Karami, J. Juillard, E. Blokhina, P. Basset, D. Galayko. "Electrostatic Near-Limits Kinetic Energy
-Harvesting from Arbitrary Input Vibrations" [link](https://arxiv.org/abs/2002.07086)
-[3] A. Nielsen "Practical Time Series Analysis: Prediction with Statistics and Machine Learning, ISBN 13: 9781492041603"
-[4] A. Géron "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, ISBN 13: 9781492032595"
-[5] J. Moolayil "Learn Keras for Deep Neural Networks, ISBN 13: 9781484242391"
-[6] P. Wardenm D. Situnayake "TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontroller, ISBN 13: 9781492051992"
-[7] M.J. Kochenderfer, T.A. Wheeler "Algorithms for Optimization, ISBN 13: 9780262039420"
+Harvesting from Arbitrary Input Vibrations" [link](https://arxiv.org/abs/2002.07086)  
+[3] A. Nielsen "Practical Time Series Analysis: Prediction with Statistics and Machine Learning, ISBN 13: 9781492041603"  
+[4] A. Géron "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, ISBN 13: 9781492032595"  
+[5] J. Moolayil "Learn Keras for Deep Neural Networks, ISBN 13: 9781484242391"  
+[6] P. Wardenm D. Situnayake "TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontroller, ISBN 13: 9781492051992"  
+[7] M.J. Kochenderfer, T.A. Wheeler "Algorithms for Optimization, ISBN 13: 9780262039420"  
